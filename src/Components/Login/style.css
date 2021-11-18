@@ -1,0 +1,6 @@
+.bg-home {
+  min-height: '100vh';
+  background-image: url('../../assets/images/bg.jpg');
+  background-repeat: 'no-repeat';
+  background-size:  'cover'
+}
